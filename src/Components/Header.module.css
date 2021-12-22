@@ -1,0 +1,15 @@
+.Nav_item {
+  color: rgb(14, 52, 179);
+  margin: 1rem;
+  text-decoration: none;
+}
+
+.Nav_item:active {
+  color: red;
+  font-size: large;
+}
+
+.Nav_item:hover {
+  color: black;
+  font-size: 1.5rem;
+}
